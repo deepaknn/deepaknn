@@ -11,7 +11,7 @@ Skills: Java, Spring Boot, SQL Server, PostgreSQL, Docker, Javascript, HTML, CSS
 - 📫 Mail me at deepaknnofficial@gmail.com
 
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/deepaknn)
+Checkout my Handles on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/deepaknn)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt=' linkedin' height='20'>](https://www.linkedin.com/in/deepak-nn/)
 
 
