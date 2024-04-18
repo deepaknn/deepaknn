@@ -8,7 +8,7 @@ Skills: Java, Spring Boot, SQL Server, PostgreSQL, Docker, Javascript, HTML, CSS
 
 - 🔭 I’m currently working on Heimdall - A Monitoring and Alerting Library Project  
 - ✨ Checkout my [portfolio](https://deepaknn.netlify.app) 
-- 📫 Mail me: deepaknnofficial@gmail.com
+- 📫 Mail me at deepaknnofficial@gmail.com
 
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/deepaknn)
