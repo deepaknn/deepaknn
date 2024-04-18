@@ -7,7 +7,7 @@ Proficient in a wide range of technologies and languages, including Java, Spring
 Skills: Java, Spring Boot, SQL Server, PostgreSQL, Docker, Javascript, HTML, CSS
 
 - 🔭 I’m currently working on Heimdall - A Monitoring and Alerting Library Project  
-- ✨ Checkout my [portfolio](https://www.deepaknn.netlify.app) 
+- ✨ Checkout my [portfolio](https://deepaknn.netlify.app) 
 - 📫 Mail me: deepaknnofficial@gmail.com
 
   
